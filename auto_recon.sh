@@ -69,7 +69,7 @@ echo "2) Port Scan"
 echo "3) WHOIS Lookup"
 echo "4) Directory Scan"
 echo "5) Full Recon"
-echo "6) Smart Recon (Auto Mode 🧠)"
+echo "6) Smart Recon (Auto Mode )"
 echo "0) Exit${RESET}"
 }
 
